@@ -399,7 +399,7 @@ caption{
 body{
     /*background-image: -webkit-linear-gradient(top,#0400ff,#730577);*/
     /*background-image: -o-linear-gradient(top,#6e0577 0,#100841 100%);*/
-    background-image: linear-gradient(180deg,#0400ff 0,#030844);
+    background-image: linear-gradient(180deg,#1155cc 0,#030844);
     background-repeat: repeat-x;
 }
 body.white{
