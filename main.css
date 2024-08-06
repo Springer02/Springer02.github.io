@@ -479,7 +479,7 @@ body.white{
     color:#000
 }
 .h5 a:hover,h5 a:hover{
-    color:#ff0060;
+    color:#ffffff;
     text-decoration:none
 }
 .h5 small,h5 small{
@@ -493,7 +493,7 @@ body.white{
     transition:all .2s linear
 }
 .social-round-icon:hover{
-    background-color:#ff0060;
+    background-color:#ffffff;
     color:#fff;
     border-color:#ff0060
 }
@@ -503,7 +503,7 @@ body.white{
 }
 .social-round-icon.white-round-icon:hover{
     background-color:#fff;
-    color:#ff0060;
+    color:#ffffff;
     border-color:#fff
 }
 .fa-icon{
@@ -531,13 +531,13 @@ body.white{
     color:#000
 }
 .social-buttons a:hover{
-    color:#ff0060;
+    color:#ffffff;
     text-decoration:none
 }
 .social-buttons a:hover .social-round-icon{
-    background-color:#ff0060;
+    background-color:#ffffff;
     color:#fff;
-    border-color:#ff0060
+    border-color:#ffffff
 }
 .carousel-caption{
     position:relative;
